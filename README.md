@@ -1,1 +1,1 @@
-#  php ile kodlanmış c2c platformu
+#  spaghetti php ile kodlanmış c2c platformu
