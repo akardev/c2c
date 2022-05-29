@@ -1,1 +1,3 @@
-#  spaghetti php ile kodlanmış c2c platformu
+
+### C2c platform that I coded with Spaghetti Php
+
