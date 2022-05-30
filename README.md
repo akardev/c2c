@@ -1,3 +1,3 @@
 
-### C2C platform that I coded with Spaghetti Php
+### C2C platform with Spaghetti Php
 
